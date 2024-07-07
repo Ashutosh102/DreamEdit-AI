@@ -18,7 +18,7 @@ const MobileNav = () => {
           src="/assets/images/logo-text.svg"
           alt="logo"
           width={180}
-          height={28}
+          height={48}
         />
       </Link>
 
@@ -42,7 +42,7 @@ const MobileNav = () => {
                   src="/assets/images/logo-text.svg"
                   alt="logo"
                   width={152}
-                  height={23}
+                  height={40}
                 />
 
               <ul className="header-nav_elements">
